@@ -1,0 +1,16 @@
+{
+"companyName": "GamUp",
+"productName": "Adventure in Giza Systems Land",
+"productVersion": "1.0",
+"dataUrl": "GamUp.data.unityweb",
+"wasmCodeUrl": "GamUp.wasm.code.unityweb",
+"wasmFrameworkUrl": "GamUp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
